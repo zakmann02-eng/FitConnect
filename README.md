@@ -1,7 +1,7 @@
-echo "# HealthConnect" >> README.md
+echo "# FitConnect" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/zakmann02-eng/HealthConnect.git
+git remote add origin https://github.com/zakmann02-eng/FitConnect.git
 git push -u origin main
